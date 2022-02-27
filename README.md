@@ -1,1 +1,1 @@
-![UA](https://www.dlit.dp.ua/wp-content/uploads/2022/02/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234A13F7&lines=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F)](https://git.io/typing-svg)
