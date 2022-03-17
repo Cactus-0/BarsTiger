@@ -87,4 +87,4 @@ I <3 [Cactus-0](https://github.com/Cactus-0)
 <br />
 
 ----
-<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Used some templates from <div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
