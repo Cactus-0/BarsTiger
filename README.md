@@ -18,7 +18,10 @@ I <3 [Cactus-0](https://github.com/Cactus-0)
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [horsy package manager](https://github.com/horsy-ml/)  
+- 🔭 I’m currently working on [daunRat](https://github.com/BarsTiger/daunRat/)  
+  
+  
+- 🐴Currently biggest project is [horsy](https://github.com/horsy-ml/)
   
 
 - 🌱 I’m currently learning Go and Python backend  
