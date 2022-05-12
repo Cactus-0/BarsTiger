@@ -10,7 +10,9 @@
 
 ### Hi there  
 Im a 14-years old Python developer, who learns Python3 and creates usefull projects  
-(aka ANONYMUSSSS)
+
+(also known as ANONYMUSSSS, but it's a secret)
+
 I <3 [Cactus-0](https://github.com/Cactus-0)
 
 <br/>  
