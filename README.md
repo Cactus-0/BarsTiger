@@ -92,5 +92,8 @@ I <3 [Cactus-0](https://github.com/Cactus-0)
 </td></tr></table>
 <br />
 
+## I'm listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3d169f3aqd0sfjm48sl8w9yc&cover_image=true&theme=default&bar_color=7a32ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k3d169f3aqd0sfjm48sl8w9yc&redirect=true)
+
 ----
 <div align="center">Used some templates from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
