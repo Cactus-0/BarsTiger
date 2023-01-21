@@ -1,52 +1,45 @@
-## Hey 👋, I'm BarsTiger  
-  
-
 <div align="center">
-<img src="https://i.pinimg.com/originals/4a/32/ef/4a32ef914876d526436eb7d5e6991af4.gif" align="center" height="" width="" />
+<img src="https://i.imgur.com/43eyy46.png" align="center" height="" width="" />
 </div>  
-  
 
 
-
-### Hi there  
-Im a 14-years old Python developer, who learns Python3 and creates usefull projects  
-
-(also known as ANONYMUSSSS, but it's a secret)
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [daunRat](https://github.com/BarsTiger/daunRat/)  
-  
-  
+## About
+<table><tr><td valign="center" width="50%">
+ 
 - 🐴Currently biggest project is [horsy](https://github.com/horsy-ml/)
-  
-
-- 🌱 I’m currently learning Go and Python backend  
-  
-
-- ❓ Ask me about anything related to desktop Python apps  
-  
-
-- ⚡ Fun fact: I started Python when I was 7 y.o.  
-
+- 🤖 Currently learning Python backend and AI
+- 💻 Main focus of work is desktop applications
+- ⚡ Started coding in Python when I was 7 y.o.  
+- 🤝 Love cooperating with others
+-  📑 Created 50+ big and small projects, bots, libraries
 
 </td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://c.tenor.com/vsueP0ISyccAAAAC/death-note-death-note-l.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/mlRRRxk.png" align="center" style="width: 100%" />
 </div>  
+
 
 
 </td></tr></table>  
 
-<br/>  
+<br />
 
+## My projects 
+- [horsy](https://github.com/horsy-ml/) - the best open source package manager for Windows 
+- [KotoPad](https://github.com/BarsTiger/KotoPad) - free, open-source and multifunctional SoundPad/Soundux analog
+- [GtaBuyBase GUI](https://github.com/BarsTiger/GtaBuyBaseGui) - GUIfyed end extended version of best GTA wishlist app
+- [daunRat](https://github.com/BarsTiger/daunRat) - remote administration tool based on [daun core](https://github.com/BarsTiger/daun) - util that makes ultra-useless-hacker-commands easier to use
+- [localhost-mc](https://localhost-mc.ga/) - the best fake minecraft scam project (closed)
+-  [KOTIKOT_launcher](https://github.com/BarsTiger/KOTIKOTapps_download_repo) and [KOTIKOT_standalone](https://github.com/BarsTiger/KOTIKOTstandalone) - repos with my smaller projects
+-  ...and many others can be found on [kotikotprojects](https://kotikotprojects.gq/)
+
+<br />
 
 ## Languages and Tools  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
@@ -74,24 +67,3 @@ Im a 14-years old Python developer, who learns Python3 and creates usefull proje
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="75" />  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BarsTiger&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarsTiger&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-<br />
-
-## I'm listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3d169f3aqd0sfjm48sl8w9yc&cover_image=true&theme=default&bar_color=7a32ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k3d169f3aqd0sfjm48sl8w9yc&redirect=true)
-
-----
-<div align="center">Used some templates from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
