@@ -42,6 +42,7 @@
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://seeklogo.com/images/S/scratch-cat-logo-7F652C6253-seeklogo.com.png" alt="Scratch" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" />  
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
